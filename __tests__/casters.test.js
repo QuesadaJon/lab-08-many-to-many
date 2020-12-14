@@ -24,7 +24,6 @@ describe('caster routes', () => {
       id: '1',
       name: 'Hagrid'
     });
-
   });
 
   it('gets all casters via GET', async() => {
